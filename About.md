@@ -15,5 +15,5 @@ love to use my knowledge of engineering to create a product that helps me with o
 I'm always looking for new technologies to master, new problems to solve, and new people to learn from. Feel free to reach out if
 you want to connect!
 
-:)
+:)   
 Marco

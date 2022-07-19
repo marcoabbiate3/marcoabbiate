@@ -1,6 +1,6 @@
 layout: page
 title: "About"
-permalink: /About/
+permalink: /marcoabbiate3/About/
 
 # About
 

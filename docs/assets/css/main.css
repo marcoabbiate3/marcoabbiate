@@ -3953,3 +3953,6 @@ input, select, textarea {
 			opacity: 1;
 			visibility: visible;
 		}
+
+
+		#signature {  width: 20%;  height: auto; } 
